@@ -16,7 +16,7 @@ body, html{
 
 }
 
-.video-container{
+/* .video-container{
     width: 90%;
     max-width: 1200px;
     margin: auto;
@@ -39,7 +39,7 @@ video {
         width: 100%;
         padding: 10px;
     }
-}
+} */
 
 .question-container{
     justify-content: center;
